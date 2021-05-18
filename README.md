@@ -1,4 +1,4 @@
-### 每个人都是A+，哪怕我一个Star都没有 🤔 🤔
+### 每个人都是A+，哪怕我只有一个Star 🤔 🤔
 
 <!--
 **Xanadu-zxl/xanadu-zxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
