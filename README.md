@@ -1,7 +1,7 @@
 ### 每个人都是A+，哪怕我只有一个Star 🤔 🤔
 
 <!--
-**Xanadu-zxl/xanadu-zxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zxl7/zxl7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=xanadu-zxl)
+![](https://github-readme-stats.vercel.app/api?username=zxl7)
