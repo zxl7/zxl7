@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=zxl7)
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=longyanjiang&count_private=true&show_icons=true&theme=tokyonight&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=longyanjiang&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=zxl7&count_private=true&show_icons=true&theme=tokyonight&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zxl7&theme=tokyonight">
 </p>
 
 <p align = "center">
 <a href="https://github.com/longyanjiang/Nine-chat-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-chat-frontend&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zxl7&repo=Nine-chat-frontend&theme=tokyonight" />
 </a>
 <a href="https://github.com/longyanjiang/Nine-chat-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longyanjiang&repo=Nine-chat-backend&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zxl7&repo=Nine-chat-backend&theme=tokyonight" />
 </a>
 </p>
 
 >>>>>>>>>>>>>>>>>>>>>>>> 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=longyanjiang&theme=redical" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=zxl7&theme=redical" />
